@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "api/add-word.js": {
+        "runtime": "nodejs18.x"
+      }
+    }
+  }
+  
